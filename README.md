@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @hemasagarrajugit98
-- 👀 I’m interested in working with Embedded systems and RTOS
-- 🌱 I’m currently learning RHEL8 and Static analysis tool (Clang-tidy)
-- 💞️ I’m looking for a full-time employment in automotive industry in Embedded systems domain
+- 👀 Enthusiastic to learn and work with Software/Embedded systems especially RTOS
+- 🌱 M.Sc in Sensor Systems Technology at Hochschule Karlsruhe, Germany
+- 💞️ Looking for full-time employment in software/embedded/firmware development
 - 📫 Reach me through email: hemasagarraju98@gmail.com
 - 😄 Pronouns: Raju
-- ⚡ Fun fact: I am 25, I am still single and I am ready to mingle😂
   
 
 <!---
