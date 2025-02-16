@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hemasagarrajugit98
-- 👀 Enthusiastic to learn and work with Software/Embedded systems especially RTOS
+- 👀 Enthusiastic to learn and work with Software/Embedded systems
 - 🌱 M.Sc in Sensor Systems Technology at Hochschule Karlsruhe, Germany
 - 💞️ Looking for full-time employment in software/embedded/firmware development
 - 📫 Reach me through email: hemasagarraju98@gmail.com
